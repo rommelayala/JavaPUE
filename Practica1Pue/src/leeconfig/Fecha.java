@@ -1,7 +1,5 @@
 package leeconfig;
 
-
-
 import java.util.*;
 public class Fecha {
 	Calendar hoy=Calendar.getInstance();
